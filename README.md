@@ -33,3 +33,6 @@ I'm deeply committed to addressing **inequality** through the power of **AI**. M
 - **Hobbies**: Guitar, chess, reading, and exploring stock investments.
 
 Together, let's create, innovate, and inspire! 🌟
+
+
+[![Methasit-Pun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Methasit-Pun)](https://github.com/Methasit-Pun/github-readme-stats)
