@@ -46,9 +46,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats-navy-one-20.vercel.app/api?username=Methasit-Pun&theme=nightowl&hide_border=false&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=Methasit-Pun&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats-navy-one-20.vercel.app/api/top-langs/?username=Methasit-Pun&theme=nightowl&hide_border=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Methasit-Pun&theme=nightowl&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
