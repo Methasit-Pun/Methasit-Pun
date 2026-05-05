@@ -2,12 +2,12 @@
 
 # 💫 About Me:
 
-🔭 Working on: **AnyCaller** – AI Contact Center for Thai SMEs<br>
-🤝 Open to: AI research with large datasets & global-impact startups.<br>
-🧑‍💼 Seeking: Mentorship & internships to sharpen tech + leadership.<br>
-🌱 Learning: Whisper fine-tuning (Thai), AI Voice TTS SST pipeline, DINO v2, Semantic SAM, Livekit <br>
-💬 Ask me about: AI, Startups, Gym, Chess, Poker, Investing, Anime, Music (Classical/Jazz/J-Pop), Guitar 🎸<br>
-⚡ Fun fact: Both early bird & night owl — sleep is optional.  
+🔭 Working on: **ANY** – AI Contact Center for Thai Clinic<br>
+🤝 Open to: AI research with large datasets & global-impact startups<br>
+🧑‍💼 Seeking: Mentorship to sharpen tech and leadership.<br>
+🌱 Learning: Sales Pipeline, SLM for Agentic Assistance, Clawdbot Usecase (Useful?) <br>
+💬 Ask me about: AI, Startups, Gym, Chess, Poker, Investment, Anime, Music (Classical/Jazz/J-Pop), Guitar 🎸<br>
+⚡ Fun fact: Both early bird & night owl — sleep is optional.
 
 
 ## 🌐 Socials:
@@ -43,8 +43,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Methasit-Pun&theme=nightowl&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats-git-master-methasit-puns-projects.vercel.app/api/top-langs/?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Methasit-Pun&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Methasit-Pun)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
