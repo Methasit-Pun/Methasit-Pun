@@ -41,8 +41,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Methasit-Pun&theme=nightowl&hide_border=false)<br/> 
+[![GitHub Stats](https://github-readme-stats-git-master-methasit-puns-projects.vercel.app/api?username=Methasit-Pun&theme=nightowl&show_icons=true&hide_border=false&count_private=false)](https://github.com/Methasit-Pun)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Methasit-Pun&theme=nightowl&hide_border=false)](https://github.com/Methasit-Pun)
 
 ![](https://github-readme-stats-git-master-methasit-puns-projects.vercel.app/api/top-langs/?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
