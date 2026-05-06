@@ -45,6 +45,7 @@
 [![GitHub Stats](https://github-readme-stats-navy-one-20.vercel.app/api?username=Methasit-Pun&theme=nightowl&show_icons=true&hide_border=false&count_private=false)](https://github.com/Methasit-Pun)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Methasit-Pun&theme=nightowl)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats-navy-one-20.vercel.app/api/top-langs/?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Methasit-Pun&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Methasit-Pun)
