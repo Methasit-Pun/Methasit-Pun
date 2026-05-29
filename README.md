@@ -48,7 +48,6 @@
 
 ![](https://github-readme-stats-navy-one-20.vercel.app/api/top-langs/?username=Methasit-Pun&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Methasit-Pun&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Methasit-Pun)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
