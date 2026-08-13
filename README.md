@@ -53,5 +53,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Methasit-Pun&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Gym Consistency](https://gym-tracker-rho-six.vercel.app/api/tracker)](https://gym-tracker-rho-six.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
