@@ -5,7 +5,7 @@
 🔭 Working on: **ANY** – AI Contact Center for Thai Clinic<br>
 🤝 Open to: AI research with large datasets & global-impact startups<br>
 🧑‍💼 Seeking: Mentorship to sharpen tech and leadership.<br>
-🌱 Learning: Sales Pipeline, SLM for Agentic Assistance, Clawdbot Usecase (Useful?) <br>
+🌱 Learning: SLM for Agentic Assistance, MLops, MLflow, AWS  <br>
 💬 Ask me about: AI, Startups, Gym, Chess, Poker, Investment, Anime, Music (Classical/Jazz/J-Pop), Guitar 🎸<br>
 ⚡ Fun fact: Both early bird & night owl — sleep is optional.
 
